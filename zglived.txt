@@ -1251,10 +1251,10 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 江西IPTV,http://111.73.21.129:8688/udp/239.252.219.188:5140
 陶瓷,http://111.73.21.129:8688/udp/239.252.220.243:5140
 
-赣州新闻综合,http://115.150.63.77:85/tsfile/live/0001_50.m3u8?key=txiptv&playlive=1&authid=0
-赣州公共,http://115.150.63.77:85/tsfile/live/0001_51.m3u8?key=txiptv&playlive=1&authid=0
-赣州教育,http://115.150.63.77:85/tsfile/live/0001_52.m3u8?key=txiptv&playlive=1&authid=0
-章贡频道,http://115.150.63.77:85/tsfile/live/0001_53.m3u8?key=txiptv&playlive=1&authid=0
+赣州新闻综合,http://119.167.129.46/wb.jxgztv.com/live/gztv1.m3u8
+赣州公共,http://119.167.129.46/wb.jxgztv.com/live/gztv2.m3u8
+赣州教育,http://119.167.129.46/wb.jxgztv.com/live/gztv3.m3u8
+
 
 南昌新闻综合,http://live.cooltv.top/tv/nctv.php?id=1
 南昌文旅,http://live.cooltv.top/tv/nctv.php?id=2
