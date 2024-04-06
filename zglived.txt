@@ -3767,6 +3767,11 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 准格尔旗,http://nas.zyshare.top:10000/udp/239.29.0.192:5000$通辽电信
 未知综合4,http://nas.zyshare.top:10000/udp/239.29.1.162:5000$通辽电信
 
+巴音郭楞1套,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+巴音郭楞2套,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
+巴音郭楞3套,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+巴音郭楞4套,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
+
 内蒙古新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
