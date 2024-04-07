@@ -3991,6 +3991,11 @@ OCN Thrills,http://222.239.190.183:4022/udp/239.192.67.228:49220
 SCREEN,http://222.239.190.183:4022/udp/239.192.67.229:49220
 
 🌈 彩虹频道_6058,#genre#
+惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
 VIVID RED HD,http://kstv.us:8080/live/kaos/lSfUe486EA/47168.ts
 HUSTLER HD,http://kstv.us:8080/live/kaos/lSfUe486EA/47169.ts
 花花公子 HD,http://kstv.us:8080/live/kaos/lSfUe486EA/47170.ts
