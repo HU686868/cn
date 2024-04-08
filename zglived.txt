@@ -3996,6 +3996,17 @@ SCREEN,http://222.239.190.183:4022/udp/239.192.67.229:49220
 香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
 松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+
+P PRIVATE HD,http://146.59.54.163/356/index.m3u8
+REDLIGHT HD,http://146.59.54.163/358/index.m3u8
+HUSTLER HD,http://146.59.54.163/345/index.m3u8
+HUSTLER HD,http://146.59.54.163/348/index.m3u8
+HUSTLER TV,http://146.59.54.163/349/index.m3u8
+EXTASY 4K,http://146.59.54.163/350/index.m3u8
+PENTHOUSE REALITY,http://146.59.54.163/353/index.m3u8
+babestv HD,http://146.59.54.163/354/index.m3u8
+P PRIVATE HD,http://146.59.54.163/356/index.m3u8
+
 VIVID RED HD,http://kstv.us:8080/live/kaos/lSfUe486EA/47168.ts
 HUSTLER HD,http://kstv.us:8080/live/kaos/lSfUe486EA/47169.ts
 花花公子 HD,http://kstv.us:8080/live/kaos/lSfUe486EA/47170.ts
