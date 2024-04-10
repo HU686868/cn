@@ -526,9 +526,9 @@ CHC家庭影院,http://summer-xa.icopylock.com:8888/udp/239.112.205.205:5140
 
 
 港 澳 台,#genre#
-凤凰卫视,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰卫视,http://1.62.64.43/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://1.62.64.43/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://1.62.64.43/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 
 凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
 公視,http://livetv.skycf.eu.org/live.m3u8?c=8
