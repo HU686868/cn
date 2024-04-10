@@ -551,8 +551,8 @@ HOY78,https://45.152.67.168/cctv-10
 東森新聞,https://45.152.67.168/cctv-18
 功夫台,https://45.152.67.168/cctv-20
 
-凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视,http://playtv-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视,http://www.xcarchain.com:8888/udp/239.93.0.162:2192$成都电信
 凤凰资讯,http://www.xcarchain.com:8888/udp/239.93.0.118:2191$成都电信
 凤凰卫视,http://hundx.shualian.work:8888/udp/239.76.246.135:1234$衡阳电信
