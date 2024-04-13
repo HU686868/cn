@@ -563,14 +563,14 @@ CCTV17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
 电影频道,#genre#
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8?
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8?
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8?
+CHC动作电影,http://tv.enlen.vip:4022/udp/239.200.201.31:8144
+CHC高清电影,http://tv.enlen.vip:4022/udp/239.200.201.34:8148
+CHC家庭影院,http://tv.enlen.vip:4022/udp/239.200.201.30:8140
 
-CHC动作电影,http://summer-xa.icopylock.com:8888/udp/239.110.205.6:9770
-CHC高清电影,http://summer-xa.icopylock.com:8888/udp/239.109.205.97:8712
-CHC高清电影,http://summer-xa.icopylock.com:8888/udp/239.112.205.206:5140
-CHC家庭影院,http://summer-xa.icopylock.com:8888/udp/239.112.205.205:5140
+CHC动作电影,http://124.115.207.92:8081/udp/239.110.205.6:9770
+CHC高清电影,http://124.115.207.92:8081/udp/239.109.205.97:8712
+CHC高清电影,http://124.115.207.92:8081/udp/239.112.205.206:5140
+CHC家庭影院,http://124.115.207.92:8081/udp/239.112.205.205:5140
 
 
 港 澳 台,#genre#
