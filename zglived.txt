@@ -4339,7 +4339,7 @@ OCN,http://222.239.190.183:4022/udp/239.192.67.226:49220
 OCN Movies,http://222.239.190.183:4022/udp/239.192.67.227:49220
 OCN Thrills,http://222.239.190.183:4022/udp/239.192.67.228:49220
 SCREEN,http://222.239.190.183:4022/udp/239.192.67.229:49220
-33,https://b-hls-04.doppiocdn.live/hls/150796179/150796179.m3u8?playlistType=lowLatency&_HLS_msn=642&_HLS_part=2
+
 🌈 彩虹频道_6058,#genre#
 惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8#https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
 潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8#https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
