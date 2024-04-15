@@ -4184,11 +4184,16 @@ OCN Thrills,http://222.239.190.183:4022/udp/239.192.67.228:49220
 SCREEN,http://222.239.190.183:4022/udp/239.192.67.229:49220
 
 🌈 彩虹频道_6058,#genre#
-惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8#https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
-潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8#https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
-香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8#https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
-松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8#https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8#https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8$源1
+潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8$源1
+香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8$源1
+松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8$源1
+松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8$源1
+惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8$源2
+潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8$源2
+香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8$源2
+松视1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8$源2
+松视2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8$源2
 
 P PRIVATE HD,http://146.59.54.163/356/index.m3u8
 REDLIGHT HD,http://146.59.54.163/358/index.m3u8
