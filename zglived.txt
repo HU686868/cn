@@ -887,8 +887,6 @@ ICS外语http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951/
 中山综合,http://sys.lck.xyz:4000/udp/239.253.43.62:5146$清远电信
 中山公共,http://sys.lck.xyz:4000/udp/239.253.43.63:5146$清远电信
 中山教育,http://sys.lck.xyz:4000/udp/239.253.43.64:5146$清远电信
-HZTV-1,http://sys.lck.xyz:4000/udp/239.77.1.232:5146$清远电信
-HZTV-2,http://sys.lck.xyz:4000/udp/239.77.1.233:5146$清远电信
 香山文化,http://sys.lck.xyz:4000/udp/239.253.43.63:5146$清远电信
 徐闻综合,http://sys.lck.xyz:4000/udp/239.253.43.112:5146$清远电信
 
