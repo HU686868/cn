@@ -379,8 +379,10 @@ HOY78,https://45.152.67.168/cctv-10
 東森新聞,https://45.152.67.168/cctv-18
 功夫台,https://45.152.67.168/cctv-20
 
-中天新闻,http://cf156.yfvodcdn.com:8080/live/ztylt01/hls.m3u8#http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
-三立iNEWS,http://cf156.yfvodcdn.com:8080/live/slxw01/hls.m3u8#http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
+中天新闻,http://cf156.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
+中天新闻,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
+三立iNEWS,http://cf156.yfvodcdn.com:8080/live/slxw01/hls.m3u8
+三立iNEWS,http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
 
 凤凰卫视,http://playtv-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-flive.ifeng.com/live/06OLEEWQKN4.m3u8
