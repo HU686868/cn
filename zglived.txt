@@ -363,7 +363,7 @@ CHC家庭影院,http://124.115.207.92:8081/udp/239.112.205.205:5140
 台視新聞,http://livetv.skycf.eu.org/live.m3u8?c=4
 TVBS新聞台,http://livetv.skycf.eu.org/live.m3u8?c=5
 中視新聞,http://livetv.skycf.eu.org/live.m3u8?c=6
-中天新聞,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
 東森新聞,http://livetv.skycf.eu.org/live.m3u8?c=9
 東森财经新聞,http://livetv.skycf.eu.org/live.m3u8?c=14
@@ -378,8 +378,9 @@ HOY78,https://45.152.67.168/cctv-10
 中天新聞,https://45.152.67.168/cctv-17
 東森新聞,https://45.152.67.168/cctv-18
 功夫台,https://45.152.67.168/cctv-20
-中天新闻,http://cf156.yfvodcdn.com:8080/live/ztylt01/hls.m3u8#http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
 
+中天新闻,http://cf156.yfvodcdn.com:8080/live/ztylt01/hls.m3u8#http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
+三立iNEWS,http://cf156.yfvodcdn.com:8080/live/slxw01/hls.m3u8#http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
 
 凤凰卫视,http://playtv-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-flive.ifeng.com/live/06OLEEWQKN4.m3u8
