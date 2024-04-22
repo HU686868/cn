@@ -360,7 +360,7 @@ CHC家庭影院,http://124.115.207.92:8081/udp/239.112.205.205:5140
 
 凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
 公視,http://livetv.skycf.eu.org/live.m3u8?c=8
-台視新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
+台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
 TVBS新聞台,http://livetv.skycf.eu.org/live.m3u8?c=5
 中視新聞,http://livetv.skycf.eu.org/live.m3u8?c=6
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
