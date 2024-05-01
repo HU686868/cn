@@ -402,8 +402,8 @@ TVBS亚洲,http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
 凤凰资讯,http://playtv-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视,http://www.xcarchain.com:8888/udp/239.93.0.162:2192$成都电信
 凤凰资讯,http://www.xcarchain.com:8888/udp/239.93.0.118:2191$成都电信
-凤凰卫视,http://hundx.shualian.work:8888/udp/239.76.246.135:1234$衡阳电信
-凤凰资讯,http://hundx.shualian.work:8888/udp/239.76.246.134:1234$衡阳电信
+凤凰卫视,http://www.erbao1981.top:8188/udp/239.76.246.135:1234$株洲电信
+凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234$株洲电信
 凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000$湘潭电信
 凤凰卫视,http://dms.yryyj.site:8188/udp/239.76.253.135:9000$湘潭电信
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
