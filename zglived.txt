@@ -5038,6 +5038,15 @@ IHOT,#genre#
 爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 
 🌈 彩虹频道_6058,#genre#
+HAPPYTA,http://59.125.4.38:1/udp/224.1.4.72:11111
+XIANJIANTA,http://59.125.4.38:1/udp/224.1.4.205:11111
+JIN YANTA,http://59.125.4.38:1/udp/230.1.2.27:11111
+CAI HONDIYI,http://59.125.4.38:1/udp/224.1.4.64:11111
+CAI HONK,http://59.125.4.38:1/udp/224.1.4.65:11111
+CAI HONE,http://59.125.4.38:1/udp/224.1.4.63:11111
+SON SHI1,http://59.125.4.38:1/udp/224.1.4.68:11111
+SON SHI2,http://59.125.4.38:1/udp/224.1.4.69:11111
+SON SHI3,http://59.125.4.38:1/udp/224.1.4.70:11111
 PORNBOX1,http://cord-cutter.net:8080/YT6bvC/100111/159960
 PORNBOX2,http://cord-cutter.net:8080/YT6bvC/100111/159961
 PORNBOX3,http://cord-cutter.net:8080/YT6bvC/100111/159962
