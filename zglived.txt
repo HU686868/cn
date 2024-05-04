@@ -352,6 +352,13 @@ CHC高清电影,http://124.115.207.92:8081/udp/239.109.205.97:8712
 CHC高清电影,http://124.115.207.92:8081/udp/239.112.205.206:5140
 CHC家庭影院,http://124.115.207.92:8081/udp/239.112.205.205:5140
 
+影迷电影,http://171.108.239.90:8181/tsfile/live/1008_1.m3u8
+天映经典,http://171.108.239.90:8181/tsfile/live/1009_1.m3u8
+东森电影,http://171.108.239.90:8181/tsfile/live/1010_1.m3u8
+东森洋片,http://171.108.239.90:8181/tsfile/live/1016_1.m3u8
+东森超视,http://171.108.239.90:8181/tsfile/live/1023_1.m3u8
+龙祥时代,http://171.108.239.90:8181/tsfile/live/1011_1.m3u8
+私人影院,http://171.108.239.90:8181/tsfile/live/1014_1.m3u8
 
 港 澳 台,#genre#
 凤凰卫视,http://1.62.64.43/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
@@ -5038,6 +5045,8 @@ IHOT,#genre#
 爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 
 🌈 彩虹频道_6058,#genre#
+测试1,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+测试2,https://5ed5d165c218d.streamlock.net:441/free/Stream5/playlist.m3u8
 HAPPYTA,http://59.125.4.38:1/udp/224.1.4.72:11111
 XIANJIANTA,http://59.125.4.38:1/udp/224.1.4.205:11111
 JIN YANTA,http://59.125.4.38:1/udp/230.1.2.27:11111
