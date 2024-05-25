@@ -5066,17 +5066,21 @@ NewTV,#genre#
 黑莓电影,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=3
 
 IHOT,#genre#
-爱青春,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-爱幼教,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-爱体育,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-爱电竞,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-爱怀旧,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-爱赛车,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-爱玩具,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-爱经典,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-爱谍战,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-爱科幻,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+爱喜剧,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.225:8500
+爱科幻,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.226:8568
+爱院线,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.227:8572
+爱悬疑,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.228:8576
+爱经典,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.229:8592
+爱谍战,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.230:8596
+爱都市,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.231:8674
+爱青春,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.232:8678
+爱幼教,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.233:8682
+爱玩具,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.234:8686
+爱电竞,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.235:8690
+爱赛车,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.236:8700
+爱怀旧,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.237:8718
+爱奇迹,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.238:8722
+爱动漫,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.239:8736
 
 🌈 彩虹频道(已更新5.22)_6058,#genre#
 HAPPYTA,http://61.224.80.130:9088/udp/224.1.4.72:11111
