@@ -64,8 +64,6 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 内蒙古卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN79469BESTVSMGSMG9/index.m3u8?AuthInfo=7lAOfreToIabkYEBYF1%2BWCg%2BFJmNHniNGz9lIf%2FFuMRNPINSc7cKQZCTuuz5ZoufoEYBG34BsDXZsLnY%2B%2BGcEw%3D%3D
 兵团卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
 
-
-
 「海南」海南新闻,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
 「海南」海南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS
 「海南」海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
@@ -370,17 +368,17 @@ CCTV17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.
 兵团卫视,http://hy.baojihzjc.com:9001/udp/239.112.205.198:5140
 
 电影频道,#genre#
-CHC家庭影院,http://222.90.48.68:9999/udp/239.112.205.205:5140
-CHC高清电影,http://222.90.48.68:9999/udp/239.112.205.206:5140
-CHC动作电影,http://222.90.48.68:9999/udp/239.112.205.207:5140
+CHC家庭影院,http://sakuralv.asia:9999/udp/239.112.205.205:5140
+CHC影迷电影,http://sakuralv.asia:9999/udp/239.112.205.206:5140
+CHC动作电影,http://sakuralv.asia:9999/udp/239.112.205.207:5140
 
 CHC动作电影,http://219.145.20.186:5555/udp/239.110.205.6:9770
-CHC高清电影,http://219.145.20.186:5555/udp/239.109.205.97:8712
-CHC高清电影,http://219.145.20.186:5555/udp/239.112.205.206:5140
+CHC影迷电影,http://219.145.20.186:5555/udp/239.109.205.97:8712
+CHC影迷电影,http://219.145.20.186:5555/udp/239.112.205.206:5140
 CHC家庭影院,http://219.145.20.186:5555/udp/239.112.205.205:5140
 
 TVB星河,http://171.108.239.125:8181/tsfile/live/1011_1.m3u8
-影迷电影,http://171.108.239.125:8181/tsfile/live/1004_1.m3u8
+CHC影迷电影,http://171.108.239.125:8181/tsfile/live/1004_1.m3u8
 
 
 港 澳 台,#genre#
@@ -408,16 +406,7 @@ TVBS新聞台,http://livetv.skycf.eu.org/live.m3u8?c=5
 民視新聞台,http://livetv.skycf.eu.org/live.m3u8?c=11
 三立NEWS+,http://livetv.skycf.eu.org/live.m3u8?c=12
 華視新聞,http://livetv.skycf.eu.org/live.m3u8?c=13
-龍祥時代,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=MF1F8409616784096167&ct=19669&tsum=ea6bf7db28c029a046efe01903c2c870
-HOY77,https://45.152.67.168/cctv-9
-HOY78,https://45.152.67.168/cctv-10
-无线财经台,https://45.152.67.168/cctv-11
-中天新闻,https://45.152.67.168/cctv-17
-東森新聞,https://45.152.67.168/cctv-18
-功夫台,https://45.152.67.168/cctv-20
 
-东森电影,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-东森电影,https://edge1.laotv.la/live/DongsenForeignMovie/sc-gaFECQ/v0_index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
