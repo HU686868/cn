@@ -5084,22 +5084,6 @@ SON SHI1,http://61.224.69.212:9088/udp/224.1.4.68:11111
 SON SHI2,http://61.224.69.212:9088/udp/224.1.4.69:11111
 SON SHI3,http://61.224.69.212:9088/udp/224.1.4.70:11111
 
-测试1,http://185.182.193.203:25461/vinrox91/463552/70041
-测试2,http://185.182.193.203:25461/vinrox91/463552/70042
-测试3,http://185.182.193.203:25461/vinrox91/463552/70043
-测试4,http://185.182.193.203:25461/vinrox91/463552/70044
-测试5,http://185.182.193.203:25461/vinrox91/463552/70045
-测试6,http://185.182.193.203:25461/vinrox91/463552/70046
-测试7,http://185.182.193.203:25461/vinrox91/463552/70048
-测试8,http://185.182.193.203:25461/vinrox91/463552/70049
-测试9,http://185.182.193.203:25461/vinrox91/463552/70050
-测试10,http://185.182.193.203:25461/vinrox91/463552/70051
-测试11,http://185.182.193.203:25461/vinrox91/463552/70052
-测试12,http://185.182.193.203:25461/vinrox91/463552/70053
-测试13,http://185.182.193.203:25461/vinrox91/463552/70054
-测试14,http://185.182.193.203:25461/vinrox91/463552/70055
-测试15,http://185.182.193.203:25461/vinrox91/463552/70056
-
 PORNBOX1,http://cord-cutter.net:8080/YT6bvC/100111/159960
 PORNBOX2,http://cord-cutter.net:8080/YT6bvC/100111/159961
 PORNBOX3,http://cord-cutter.net:8080/YT6bvC/100111/159962
@@ -5132,5 +5116,14 @@ PORNBOX11,http://cord-cutter.net:8080/country/123456/159970
 2-6,http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1037
 2-7,http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1297
 2-8,http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1298
-菊花 HD,http://kstv.us:8080/live/kaos/lSfUe486EA/47177.ts
+
+2-1,http://104.194.10.89:2999/carlosbermudez/oZLRHZHL0z/276
+2-2,http://104.194.10.89:2999/carlosbermudez/oZLRHZHL0z/468
+2-3,http://104.194.10.89:2999/carlosbermudez/oZLRHZHL0z/479
+2-4,http://104.194.10.89:2999/carlosbermudez/oZLRHZHL0z/751
+2-5,http://104.194.10.89:2999/carlosbermudez/oZLRHZHL0z/1035
+2-6,http://104.194.10.89:2999/carlosbermudez/oZLRHZHL0z/1037
+2-7,http://104.194.10.89:2999/carlosbermudez/oZLRHZHL0z/1297
+2-8,http://104.194.10.89:2999/carlosbermudez/oZLRHZHL0z/1298
+
 
