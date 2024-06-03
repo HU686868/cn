@@ -5184,10 +5184,10 @@ DORCELTV HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2982
 P PRIVATE HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2983
 REDLIGHT HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2984
 HUSTLER HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2985
-Шалун,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60664
-LEOTV HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60686
+Шалун,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60664
+LEOTV HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60686
 HOT HD,http://mohdtv.com:8880/live/smarttv585cde005619/26674297/60670.m3u8
-花花公子,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60679
+花花公子,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60679
 
 DUSK HD,http://31.42.185.54:8880/ALLChannels580cde0032d8/91788977/2968
 XY MIX HD,http://31.42.185.54:8880/ALLChannels580cde0032d8/91788977/2971
