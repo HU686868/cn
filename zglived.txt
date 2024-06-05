@@ -5202,6 +5202,8 @@ ALBAXXX HD2,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33133
 无名3,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33151
 无名4,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33152
 无名5,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33128
+无名6,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33081
+无名7,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33080
 HOTCLUB,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33098
 
 яK TV HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33077
@@ -5237,6 +5239,8 @@ ALBAXXX HD2,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33133
 无名3,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33151
 无名4,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33152
 无名5,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33128
+无名6,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33081
+无名7,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33080
 HOTCLUB,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33098
 
 HAPPYTAhttp://61.224.69.212:9088/udp/224.1.4.72:11111
