@@ -5190,11 +5190,24 @@ HUSTLER HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2985
 LEOTV HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60686
 HOT HD,http://mohdtv.com:8880/live/smarttv585cde005619/26674297/60670.m3u8
 花花公子,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60679
+EROX HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33110
+BRAZZERS1,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33120
+4K,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33132
+DDF,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33134
+ALBAXXX HD1,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33143
+ALBAXXX HD2,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33133
+无名1,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33148
+无名2,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33150
+无名3,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33151
+无名4,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33152
+无名5,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33128
+HOTCLUB,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33098
 
 яK TV HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2963
 DUSK HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60673
 XY MIX HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2971
 XY PLUS HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2972
+XY MAX HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33100
 babestv hd,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2973
 SUPERONE HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2974
 PENTHOUSE PASS HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2975
@@ -5212,6 +5225,18 @@ HUSTLER HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2985
 LEOTV HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60686
 HOT HD,http://vo01.mohdtv.com:8880/live/smarttv585cde005619/26674297/60670.m3u8
 花花公子,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60679
+EROX HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33110
+BRAZZERS1,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33120
+4K,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33132
+DDF,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33134
+ALBAXXX HD1,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33143
+ALBAXXX HD2,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33133
+无名1,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33148
+无名2,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33150
+无名3,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33151
+无名4,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33152
+无名5,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33128
+HOTCLUB,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33098
 
 HAPPYTAhttp://61.224.69.212:9088/udp/224.1.4.72:11111
 XIANJIANTAhttp://61.224.69.212:9088/udp/224.1.4.205:11111
