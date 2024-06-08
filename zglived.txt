@@ -1,7 +1,6 @@
 IPV6移动专用,#genre#
 凤凰中文,http://[2409:8087:280c:23::3a]/wh7f454c46tw2378956469_-497977238/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8?icpid=88888888&from=9&vqe=3&RTS=1717808908&hms_devid=2450&online=1717808908
 凤凰资讯,http://[2409:8087:280c:23::14]/wh7f454c46tw3724133113_1590560438/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8?icpid=88888888&from=9&vqe=3&RTS=1717810253&hms_devid=1937&online=1717810253
-
 浙江新闻,http://[2409:8087:280c:2020:200::2c]/wh7f454c46tw321139774_-420728049/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717811145&from=9&ocs=2_2409:8087:280c:22::2c_80&hms_devid=517&online=1717811145&vqe=3
 浙江民生,http://[2409:8087:280c:2020:200::35]/wh7f454c46tw342882660_-93750147/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717811167&from=9&ocs=2_2409:8087:280c:22::24_80&hms_devid=511&online=1717811167&vqe=3
 浙江教科,http://[2409:8087:280c:2020:200::30]/wh7f454c46tw358501450_1522213254/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717811183&from=9&ocs=2_2409:8087:280c:22::2c_80&hms_devid=512&online=1717811183&vqe=3
