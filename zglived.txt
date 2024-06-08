@@ -5316,6 +5316,7 @@ IHOT,#genre#
 🔞Шалун,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60664
 🔞LEOTV HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60686
 🔞HOT HD,http://mohdtv.com:8880/live/smarttv585cde005619/26674297/60670
+🔞HOT XXL,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33106
 🔞花花公子,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60679
 🔞花花公子2,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60687
 🔞EROX HD,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33110
@@ -5323,6 +5324,14 @@ IHOT,#genre#
 🔞PORN4K,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33132
 🔞PORN1,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33150
 🔞PORN2,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33151
+🔞PORN3,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33097
+🔞PORN4,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33096
+🔞PORN5,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33095
+🔞PORN6,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33093
+🔞PORN7,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/330932
+🔞PORN8,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33086
+🔞PORN9,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33085
+🔞PORN10,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33083
 🔞DDF,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33134
 🔞ALBAXXX HD1,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33143
 🔞ALBAXXX HD2,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33133
@@ -5337,6 +5346,7 @@ IHOT,#genre#
 🔞无名8,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60672
 🔞HOTCLUB1,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33098
 🔞HOTCLUB2,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33147
+HOTCLUB3,http://mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33081
 
 🔞яK TV HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33077
 🔞XY MIX HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/2971
@@ -5359,6 +5369,7 @@ IHOT,#genre#
 🔞Шалун,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60664
 🔞LEOTV HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60686
 🔞HOT HD,http://mohdtv.com:8880/live/smarttv585cde005619/26674297/60670
+🔞HOT XXL,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33106
 🔞花花公子,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60679
 🔞花花公子2,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60687
 🔞EROX HD,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33110
@@ -5366,6 +5377,14 @@ IHOT,#genre#
 🔞PORN4K,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33132
 🔞PORN1,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33150
 🔞PORN2,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33151
+🔞PORN3,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33097
+🔞PORN4,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33096
+🔞PORN5,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33095
+🔞PORN6,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33093
+🔞PORN7,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/330932
+🔞PORN8,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33086
+🔞PORN9,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33085
+🔞PORN10,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33083
 🔞DDF,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33134
 🔞ALBAXXX HD1,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33143
 🔞ALBAXXX HD2,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33133
@@ -5380,6 +5399,7 @@ IHOT,#genre#
 🔞无名8,http://vo01.vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/60672
 🔞HOTCLUB1,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33098
 🔞HOTCLUB2,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33147
+🔞HOTCLUB3,http://vo01.mohdtv.com:8880/ALLChannels580cde0032d8/91788977/33081
 
 🔞яK TV HD,http://mohdtv.com:8880/voby5064/77784624/33077
 🔞XY MIX HD,http://mohdtv.com:8880/voby5064/77784624/2971
@@ -5402,6 +5422,7 @@ IHOT,#genre#
 🔞Шалун,http://mohdtv.com:8880/voby5064/77784624/60664
 🔞LEOTV HD,http://mohdtv.com:8880/voby5064/77784624/60686
 🔞HOT HD,http://mohdtv.com:8880/live/smarttv585cde005619/26674297/60670
+🔞HOT XXL,http://mohdtv.com:8880/voby5064/77784624/33106
 🔞花花公子,http://mohdtv.com:8880/voby5064/77784624/60679
 🔞花花公子2,http://mohdtv.com:8880/voby5064/77784624/60687
 🔞EROX HD,http://mohdtv.com:8880/voby5064/77784624/33110
@@ -5409,6 +5430,14 @@ IHOT,#genre#
 🔞PORN4K,http://mohdtv.com:8880/voby5064/77784624/33132
 🔞PORN1,http://mohdtv.com:8880/voby5064/77784624/33150
 🔞PORN2,http://mohdtv.com:8880/voby5064/77784624/33151
+🔞PORN3,http://mohdtv.com:8880/voby5064/77784624/33097
+🔞PORN4,http://mohdtv.com:8880/voby5064/77784624/33096
+🔞PORN5,http://mohdtv.com:8880/voby5064/77784624/33095
+🔞PORN6,http://mohdtv.com:8880/voby5064/77784624/33093
+🔞PORN7,http://mohdtv.com:8880/voby5064/77784624/330932
+🔞PORN8,http://mohdtv.com:8880/voby5064/77784624/33086
+🔞PORN9,http://mohdtv.com:8880/voby5064/77784624/33085
+🔞PORN10,http://mohdtv.com:8880/voby5064/77784624/33083
 🔞DDF,http://mohdtv.com:8880/voby5064/77784624/33134
 🔞ALBAXXX HD1,http://mohdtv.com:8880/voby5064/77784624/33143
 🔞ALBAXXX HD2,http://mohdtv.com:8880/voby5064/77784624/33133
@@ -5423,6 +5452,7 @@ IHOT,#genre#
 🔞无名8,http://vo01.mohdtv.com:8880/voby5064/77784624/60672
 🔞HOTCLUB1,http://mohdtv.com:8880/voby5064/77784624/33098
 🔞HOTCLUB2,http://mohdtv.com:8880/voby5064/77784624/33147
+🔞HOTCLUB3,http://mohdtv.com:8880/voby5064/77784624/33081
 
 HAPPYTAhttp://61.224.69.212:9088/udp/224.1.4.72:11111
 XIANJIANTAhttp://61.224.69.212:9088/udp/224.1.4.205:11111
@@ -5434,7 +5464,7 @@ SON SHI1http://61.224.69.212:9088/udp/224.1.4.68:11111
 SON SHI2http://61.224.69.212:9088/udp/224.1.4.69:11111
 SON SHI3http://61.224.69.212:9088/udp/224.1.4.70:11111
 
-PORNBOX1,http://cord-cutter.net:8080/YT6bvC/100111/159960
+🈲PORNBOX1,http://cord-cutter.net:8080/YT6bvC/100111/159960
 PORNBOX2,http://cord-cutter.net:8080/YT6bvC/100111/159961
 PORNBOX3,http://cord-cutter.net:8080/YT6bvC/100111/159962
 PORNBOX4,http://cord-cutter.net:8080/YT6bvC/100111/159963
