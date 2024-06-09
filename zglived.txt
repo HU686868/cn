@@ -497,6 +497,7 @@ TVBS欢乐台,http://154.9.228.245:741/smt.php?id=tvbshuanle_twn
 龙华经典,http://154.9.228.245:741/smt.php?id=lunghuajingdian_twn
 华艺综合,http://154.9.228.245:741/smt.php?id=weishichinese_twn
 三立台湾台,http://154.9.228.245:741/smt.php?id=sanlitaiwan
+三立都会台,http://154.9.228.245:741/smt.php?id=sanlidouhui_twn
 三立戏剧台,http://154.9.228.245:741/smt.php?id=sanlixiju_twn
 三立综合台,http://154.9.228.245:741/smt.php?id=sanlizhonghe
 壹新闻,http://154.9.228.245:741/smt.php?id=yinews
