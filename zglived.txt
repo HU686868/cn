@@ -394,6 +394,7 @@ CHC家庭影院,http://113.138.133.149:8001/udp/239.112.205.205:5140
 星空电影,http://154.9.228.245:741/smt.php?id=starmovies_raj
 HBO,http://154.9.228.245:741/smt.php?id=Hbo
 HBO HD,http://154.9.228.245:741/smt.php?id=hbohd_twn
+HBO-HiTS,http://154.9.228.245:741/smt.php?id=hbohead_twn
 HBO-famiiy,http://154.9.228.245:741/smt.php?id=fyi_twn
 HBO-lgnature,http://154.9.228.245:741/smt.php?id=Hbosignature_twn
 CINEMAX,http://154.9.228.245:741/smt.php?id=cinemax_twn
