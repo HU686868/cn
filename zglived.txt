@@ -387,9 +387,13 @@ CHC家庭影院,http://113.138.133.149:8001/udp/239.112.205.205:5140
 
 天映频道,http://154.9.228.245:741/smt.php?id=Celestial
 美亚电影台,http://154.9.228.245:741/smt.php?id=meiyamovie_twn
+东森电影,http://154.9.228.245:741/smt.php?id=ettvmovie
+东森洋片,http://154.9.228.245:741/smt.php?id=ettvwestern
 龙祥時代,http://154.9.228.245:741/smt.php?id=lungxiangtime_twn
 龙祥時代,http://154.9.228.245:741/smt.php?id=cb7a1fec69
 纬来电影,http://154.9.228.245:741/smt.php?id=videolandmovie
+龙华电影,http://154.9.228.245:741/smt.php?id=xingwei_movie
+龙华洋片,http://154.9.228.245:741/smt.php?id=lunghuawestern_twn
 好莱坞电影,http://154.9.228.245:741/smt.php?id=hollywoodmovies_twn
 星空电影,http://154.9.228.245:741/smt.php?id=starmovies_raj
 HBO,http://154.9.228.245:741/smt.php?id=Hbo
