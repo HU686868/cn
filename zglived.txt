@@ -436,6 +436,19 @@ TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 
+天映频道,http://histar-proxy.isus.cc/celestial$支持电信
+天映经典,http://histar-proxy.isus.cc/cccm$支持电信
+好莱坞电影,http://histar-proxy.isus.cc/hollywood-movie$支持电信
+东森电影,http://histar-proxy.isus.cc/ebc-movie$支持电信
+东森洋片,http://histar-proxy.isus.cc/ebc-emovie$支持电信
+纬来电影,http://histar-proxy.isus.cc/videoland-movie$支持电信
+龙祥电影,http://histar-proxy.isus.cc/lstime$支持电信
+美亚电影台,http://histar-proxy.isus.cc/meiah-movies$支持电信
+AXN,http://histar-proxy.isus.cc/axn$支持电信
+HBO,http://histar-proxy.isus.cc/hbo-hd$支持电信
+HBO Signature,http://histar-proxy.isus.cc/hbo-signature$支持电信
+HBO Hits,http://histar-proxy.isus.cc/hbo-hits-hd$支持电信
+
 港 澳 台,#genre#
 凤凰卫视,http://119.4.54.112:8848/udp/239.93.0.162:2192$成都联通
 凤凰资讯,http://119.4.54.112:8848/udp/239.93.0.118:2191$成都联通
@@ -690,6 +703,80 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
+凤凰卫视,http://histar-proxy.isus.cc/phtv-cn$支持电信
+凤凰资讯,http://histar-proxy.isus.cc/phtv-info$支持电信
+凤凰香港台,http://histar-proxy.isus.cc/phtv-hk$支持电信
+无线新闻台,http://histar-proxy.isus.cc/tvb-news$支持电信
+翡翠台,http://histar-proxy.isus.cc/feicui$支持电信
+J2,http://histar-proxy.isus.cc/tvb-plus$支持电信
+J2,http://histar-proxy.isus.cc/j2$支持电信
+TVB星河,http://histar-proxy.isus.cc/tvb-xinghe$支持电信
+TVB千禧经典台,http://histar-proxy.isus.cc/tvb-classic$支持电信
+黄金华剧台,http://histar-proxy.isus.cc/golden-chinese-drama$支持电信
+HKC 18台,http://histar-proxy.isus.cc/hkc18$支持电信
+HOY 77,http://histar-proxy.isus.cc/hoytv$支持电信
+ViuTV,http://histar-proxy.isus.cc/viutv$支持电信
+Viu,http://histar-proxy.isus.cc/now-viu-drama$支持电信
+RTHK31,http://histar-proxy.isus.cc/rthk31$支持电信
+RTHK32,http://histar-proxy.isus.cc/rthk32$支持电信
+Now 直播台,http://histar-proxy.isus.cc/now-direct$支持电信
+Now 新闻台,http://histar-proxy.isus.cc/now-news$支持电信
+Now 财经台,http://histar-proxy.isus.cc/now-finance$支持电信
+Now 爆谷台,http://histar-proxy.isus.cc/baogu-movies$支持电信
+Now 星影台,http://histar-proxy.isus.cc/now-baogu-superstars$支持电信
+Now华剧台,http://histar-proxy.isus.cc/now-chinese-drama$支持电信
+粤语片台,http://histar-proxy.isus.cc/tvb-yueyu$支持电信
+亚洲剧台,http://histar-proxy.isus.cc/tvb-asia-drama$支持电信
+华语剧台,http://histar-proxy.isus.cc/tvb-drama$支持电信
+Hub娱家,http://histar-proxy.isus.cc/HubVVDrama$支持电信
+公视,http://histar-proxy.isus.cc/pts$支持电信
+公视台语台,http://histar-proxy.isus.cc/pts-ty$支持电信
+公视3,http://histar-proxy.isus.cc/pts-3$支持电信
+台视,http://histar-proxy.isus.cc/ttv$支持电信
+台视新闻,http://histar-proxy.isus.cc/ttv-news$支持电信
+TVBS新闻台,http://histar-proxy.isus.cc/tvbs-news$支持电信
+TVBS综艺台,http://histar-proxy.isus.cc/tvbs-zongyi$支持电信
+TVBS台剧台,http://histar-proxy.isus.cc/tvbs-taiju$支持电信
+中天新闻,http://histar-proxy.isus.cc/cti-news$支持电信
+中天综合,http://histar-proxy.isus.cc/ctitv36$支持电信
+中天娱乐,http://histar-proxy.isus.cc/cti-yule$支持电信
+中天亚洲台,http://histar-proxy.isus.cc/cti-asia$支持电信
+中视新闻,http://histar-proxy.isus.cc/ctv-news$支持电信
+东森综合,http://histar-proxy.isus.cc/ebc-ettv$支持电信
+东森LIVE,http://histar-proxy.isus.cc/ebc-news$支持电信
+东森财经新闻,http://histar-proxy.isus.cc/ebc-finance$支持电信
+东森戏剧,http://histar-proxy.isus.cc/ebc-drama$支持电信
+东森超视,http://histar-proxy.isus.cc/ebc-super$支持电信
+非凡新闻,http://histar-proxy.isus.cc/unique-business-news$支持电信
+年代新闻,http://histar-proxy.isus.cc/era-news$支持电信
+三立NEWS+,http://histar-proxy.isus.cc/settv-news$支持电信
+三立iNews,http://histar-proxy.isus.cc/settv-inews$支持电信
+三立台湾台,http://histar-proxy.isus.cc/settv-taiwan$支持电信
+三立都会台,http://histar-proxy.isus.cc/settv-city$支持电信
+三立戏剧台,http://histar-proxy.isus.cc/settv-drama$支持电信
+环宇新闻台,http://histar-proxy.isus.cc/global-news$支持电信
+壹新闻,http://histar-proxy.isus.cc/nexttv$支持电信
+民视新闻台,http://histar-proxy.isus.cc/ftv-news$支持电信
+民视影剧,http://histar-proxy.isus.cc/ftv-drama$支持电信
+Astro AOD 国语,http://histar-proxy.isus.cc/astro-aod$支持电信
+Astro 欢喜台,http://histar-proxy.isus.cc/astro-huaheedai$支持电信
+Astro 爱奇艺,http://histar-proxy.isus.cc/astro-iqiyi$支持电信
+Astro AEC,http://histar-proxy.isus.cc/astro-aec$支持电信
+爱尔达综合,http://histar-proxy.isus.cc/elta-zonghe$支持电信
+纬来综合,http://histar-proxy.isus.cc/videoland$支持电信
+纬来戏剧,http://histar-proxy.isus.cc/videoland-drama$支持电信
+纬来日本,http://histar-proxy.isus.cc/videoland-japan$支持电信
+纬来体育,http://histar-proxy.isus.cc/videoland-sport$支持电信
+八大综合,http://histar-proxy.isus.cc/gtv28$支持电信
+八大第1台,http://histar-proxy.isus.cc/gtv27$支持电信
+八大戏剧台,http://histar-proxy.isus.cc/gtv-41$支持电信
+八大娱乐,http://histar-proxy.isus.cc/gtv-86$支持电信
+EYE 旅游台,http://histar-proxy.isus.cc/eye-travel$支持电信
+国家地理 野生频道,http://histar-proxy.isus.cc/natgeo-wild$支持电信
+探索科学频道,http://histar-proxy.isus.cc/discovery-sci$支持电信
+探索亚洲频道,http://histar-proxy.isus.cc/discovery-asia$支持电信
+美食星球频道,http://histar-proxy.isus.cc/food-planet$支持电信
+动物星球频道,http://histar-proxy.isus.cc/animal-planet$支持电信
 
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
