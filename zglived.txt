@@ -759,8 +759,8 @@ TVBS台剧台,http://histar-proxy.isus.cc/tvbs-taiju$支持电信
 民视新闻台,http://histar-proxy.isus.cc/ftv-news$支持电信
 民视影剧,http://histar-proxy.isus.cc/ftv-drama$支持电信
 Astro AOD 国语,http://histar-proxy.isus.cc/astro-aod$支持电信
-Astro 欢喜台,http://histar-proxy.isus.cc/astro-huaheedai$支持电信
-Astro 爱奇艺,http://histar-proxy.isus.cc/astro-iqiyi$支持电信
+欢喜台,http://histar-proxy.isus.cc/astro-huaheedai$支持电信
+爱奇艺,http://histar-proxy.isus.cc/astro-iqiyi$支持电信
 Astro AEC,http://histar-proxy.isus.cc/astro-aec$支持电信
 爱尔达综合,http://histar-proxy.isus.cc/elta-zonghe$支持电信
 纬来综合,http://histar-proxy.isus.cc/videoland$支持电信
