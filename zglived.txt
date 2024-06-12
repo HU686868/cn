@@ -544,6 +544,7 @@ TVBS欢乐台,http://154.9.228.245:619/smt.php?id=tvbshuanle_twn
 民视新闻台,http://154.9.228.245:619/smt.php?id=ftvnew_taiwan
 民视第一台,http://154.9.228.245:619/smt.php?id=lunghuajingdian_twn
 民视台灣台,http://154.9.228.245:619/smt.php?id=ftvtaiwan_twn
+爱尔达综合,http://154.9.228.245:619/smt.php?id=eltazonghe
 爱尔达影剧,http://154.9.228.245:619/smt.php?id=eltayingju_twn
 纬来日本台,http://154.9.228.245:619/smt.php?id=videolandjapan
 纬来体育台,http://154.9.228.245:619/smt.php?id=videolandsport
