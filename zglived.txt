@@ -450,8 +450,8 @@ HBO Signature,http://histar-proxy.isus.cc/hbo-signature$支持电信
 HBO Hits,http://histar-proxy.isus.cc/hbo-hits-hd$支持电信
 
 港 澳 台,#genre#
-凤凰卫视,http://119.4.54.112:8848/udp/239.93.0.162:2192$成都联通
-凤凰资讯,http://119.4.54.112:8848/udp/239.93.0.118:2191$成都联通
+凤凰卫视,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$成都联通
+凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191$成都联通
 凤凰卫视,http://e2.woc.iiiya.cn:8888/rtp/239.61.5.48:1025$福建电信
 凤凰资讯,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086$福建电信
 凤凰卫视,http://www.xcarchain.com:8888/udp/239.93.0.162:2192$成都电信
