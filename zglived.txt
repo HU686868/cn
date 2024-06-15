@@ -400,7 +400,7 @@ HBO,http://154.9.228.245:215/smt.php?id=Hbo
 HBO HD,http://154.9.228.245:215/smt.php?id=hbohd_twn
 HBO-HiTS,http://154.9.228.245:215/smt.php?id=hbohead_twn
 HBO-famiiy,http://154.9.228.245:215/smt.php?id=fyi_twn
-HBO-lgnature,http://154.9.228.245:215/smt.php?id=Hbosignature_twn
+HBO-Signature,http://154.9.228.245:215/smt.php?id=Hbosignature_twn
 CINEMAX,http://154.9.228.245:215/smt.php?id=cinemax_twn
 AXN,http://154.9.228.245:215/smt.php?id=axn_twn
 
@@ -414,8 +414,8 @@ AXN,http://154.9.228.245:215/smt.php?id=axn_twn
 美亚电影台,http://histar.zapi.us.kg/?id=meiah-movies$支持电信
 AXN,http://histar.zapi.us.kg/?id=axn$支持电信
 HBO,http://histar.zapi.us.kg/?id=hbo-hd$支持电信
-HBO Signature,http://histar.zapi.us.kg/?id=hbo-signature$支持电信
-HBO Hits,http://histar.zapi.us.kg/?id=hbo-hits-hd$支持电信
+HBO-Signature,http://histar.zapi.us.kg/?id=hbo-signature$支持电信
+HBO-HiTS,http://histar.zapi.us.kg/?id=hbo-hits-hd$支持电信
 
 靖天电影台,http://37.27.111.214:8080/live/18/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
