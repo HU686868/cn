@@ -603,6 +603,22 @@ EYE 旅游台,http://histar.zapi.us.kg/?id=eye-travel$支持电信
 美食星球频道,http://histar.zapi.us.kg/?id=food-planet$支持电信
 动物星球频道,http://histar.zapi.us.kg/?id=animal-planet$支持电信
 
+凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰香港台,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+TVB Jade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+
 无线新闻台,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 凤凰香港台,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
