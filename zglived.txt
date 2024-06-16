@@ -565,6 +565,7 @@ Hub娱家,http://histar.zapi.us.kg/?id=HubVVDrama$支持电信
 TVBS亚洲,http://histar.zapi.us.kg/?id=tvbs-asia$支持电信
 TVBS HD,http://histar.zapi.us.kg/?id=tvbs-hd$支持电信
 TVBS新闻台,http://histar.zapi.us.kg/?id=tvbs-news$支持电信
+TVBS欢乐台,http://histar.zapi.us.kg/?id=tvbs-huanle$支持电信
 TVBS综艺台,http://histar.zapi.us.kg/?id=tvbs-zongyi$支持电信
 TVBS台剧台,http://histar.zapi.us.kg/?id=tvbs-taiju$支持电信
 中天新闻,http://histar.zapi.us.kg/?id=cti-news$支持电信
