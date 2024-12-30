@@ -6434,7 +6434,8 @@ CI罪案偵查,https://z02.ubtvfans.com/live/rx3/2303/5527d77ff702d784640fd822fa
 視納華仁紀實,https://z02.ubtvfans.com/live/rx1/91/fbf3ac800330583a2479794ad81148c5/index.m3u8
 
 🌈 彩虹频道_6058,#genre#
-直播,https://b-hls-23.doppiocdn.net/hls/176814871/176814871.m3u8?$Nuanyang-
+直播1,https://b-hls-23.doppiocdn.net/hls/176814871/176814871.m3u8?$Nuanyang-
+直播2,https://b-hls-17.doppiocdn.live/hls/176314761/176314761_1080p.m3u8?$QianF-666
 🈲Evolved Fights,http://rhsbjv7k.tvclub.xyz/iptv/32DWU6HCEVANYGKGG5KWPYXZ/6200/index.m3u8
 🈲Playboy1,http://rhsbjv7k.tvclub.xyz/iptv/32DWU6HCEVANYGKGG5KWPYXZ/527/index.m3u8
 🈲Playboy2,http://rhsbjv7k.tvclub.xyz/iptv/32DWU6HCEVANYGKGG5KWPYXZ/12135/manifest.m3u8
